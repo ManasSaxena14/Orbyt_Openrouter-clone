@@ -1,6 +1,34 @@
 {
   "name": "openrouter-clone",
   "private": true,
+  "description": "Orbyt: self-hosted LLM API gateway with an OpenAI-compatible endpoint, model fallback, retries, cost-based routing, BYOK and request tracing. TypeScript, Node.js, Express, Next.js, React, PostgreSQL, Prisma, Turborepo.",
+  "keywords": [
+    "llm-gateway",
+    "ai-gateway",
+    "api-gateway",
+    "openai-api",
+    "gemini-api",
+    "typescript",
+    "nodejs",
+    "expressjs",
+    "nextjs",
+    "react",
+    "tailwindcss",
+    "postgresql",
+    "prisma",
+    "turborepo",
+    "monorepo",
+    "rest-api",
+    "clerk-auth",
+    "backend",
+    "fullstack",
+    "developer-tools"
+  ],
+  "homepage": "https://openrouter-clone-dashboard.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManasSaxena14/Orbyt_Openrouter-clone.git"
+  },
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
